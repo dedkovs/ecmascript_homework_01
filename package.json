@@ -1,0 +1,16 @@
+{
+  "name": "024-ecmascript-homework-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8080 -c-1 -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
